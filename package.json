@@ -1,0 +1,22 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "MERN stack app with a REACT front end, MongoDB database, and Node.js/Express.js server API",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMDWorkspace/book-search-engine.git"
+  },
+  "author": "Alan Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMDWorkspace/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/AMDWorkspace/book-search-engine#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
