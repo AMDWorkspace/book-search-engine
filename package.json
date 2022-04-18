@@ -1,19 +1,19 @@
 {
-  "dependencies": {
-    "@hapi/hapi": "^20.2.1",
-    "apollo-server-azure-functions": "^3.6.7",
-    "apollo-server-cloud-functions": "^3.6.7",
-    "apollo-server-core": "^3.6.7",
-    "apollo-server-express": "^3.6.7",
-    "apollo-server-fastify": "^3.6.7",
-    "apollo-server-hapi": "^3.6.7",
-    "apollo-server-koa": "^3.6.7",
-    "apollo-server-lambda": "^3.6.7",
-    "apollo-server-micro": "^3.6.7",
-    "express": "^4.17.3",
-    "fastify": "^3.28.0",
-    "graphql": "^16.3.0",
-    "koa": "^2.13.4",
-    "micro": "^9.3.4"
-  }
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "MERN stack app with a React front end, MongoDB database, and Node.js/Express.js server and API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMDWorkspace/book-search-engine.git"
+  },
+  "author": "Alan Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMDWorkspace/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/AMDWorkspace/book-search-engine#readme"
 }
