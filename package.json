@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "apollo-server-azure-functions": "^3.6.7",
+    "apollo-server-cloud-functions": "^3.6.7",
+    "apollo-server-core": "^3.6.7",
+    "apollo-server-express": "^3.6.7",
+    "apollo-server-fastify": "^3.6.7",
+    "apollo-server-hapi": "^3.6.7",
+    "apollo-server-koa": "^3.6.7",
+    "apollo-server-lambda": "^3.6.7",
+    "apollo-server-micro": "^3.6.7",
+    "express": "^4.17.3",
+    "fastify": "^3.28.0",
+    "graphql": "^16.3.0",
+    "koa": "^2.13.4",
+    "micro": "^9.3.4"
+  }
+}
