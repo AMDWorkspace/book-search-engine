@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AMDWorkspace/book-search-engine#readme",
   "dependencies": {
+    "mongodb": "^4.5.0",
     "node": "^17.7.2"
   }
 }

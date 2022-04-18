@@ -18,8 +18,10 @@
 - I WANT to search for new books to read
 - SO THAT I can keep a list of books to purchase
 
-## Installation and Usage
-
-## Screenshot
-
 ## Deployed Application
+
+- https://amdworkspace.github.io/book-search-engine/
+
+## Questions
+
+- Email: amdworkspace@gmail.com
