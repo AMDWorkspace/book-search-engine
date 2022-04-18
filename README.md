@@ -4,9 +4,8 @@
 
 - [Description](#description)
 - [User Story](#user-story)
-- [Installation and Usage](#installation-and-usage)
-- [Screenshot](#screenshot)
 - [Deployed Application](#deployed-application)
+- [Questions](#questions)
 
 ## Description
 
